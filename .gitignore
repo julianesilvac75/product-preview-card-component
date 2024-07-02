@@ -15,4 +15,6 @@
 .DS_Store
 .prettierignore
 
+.sass-cache
+
 /node_modules
